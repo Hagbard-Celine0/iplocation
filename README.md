@@ -11,10 +11,10 @@ Facebook : https://www.facebook.com/miraldino.paulodoria.3
 FB Page : https://www.facebook.com/termuxoficial
 Whatsapp : +244937472246
 
-#Instalação e Uso
+<h1>#Instalação e Uso</h1>
 
 apt-get install git -y<br>
-apt-get install python2 -y
-git clone https://github.com/Hagbard-Celine0/iplocation
-cd iplocation
-python2 iplocation.py
+apt-get install python2 -y<br>
+git clone https://github.com/Hagbard-Celine0/iplocation<br>
+cd iplocation<br>
+python2 iplocation.py<br>
